@@ -1,0 +1,1 @@
+This folder contains Wireshark network traffic analysis.
