@@ -12,9 +12,9 @@ This work was initially performed as part of academic coursework and later organ
 - Inspected packet-level data
 - Analyzed protocols such as HTTP and DNS
 
-![Wireshark Capture](screenshots/wireshark_capture.png)
+![Wireshark Capture](screenshots/wireshark_capture.png.png)
 
-![Packet Details](screenshots/packet_details.png)
+![Packet Details](screenshots/packet_details.png.png)
 
 ---
 
@@ -23,7 +23,7 @@ This work was initially performed as part of academic coursework and later organ
 - Filtered packets to identify specific communication patterns
 - Observed HTTP requests and responses
 
-![HTTP Analysis](screenshots/http_analysis.png)
+![HTTP Analysis](screenshots/http_analysis.png.png)
 
 ---
 
@@ -32,11 +32,11 @@ This work was initially performed as part of academic coursework and later organ
 - Performed SQL Injection in a controlled environment
 - Extracted sensitive data using crafted queries
 
-![SQL Injection Screen](screenshots/sql_injection_screen.png)
+![SQL Injection Screen](screenshots/sql_injection_screen.png.png)
 
-![SQL Injection Payload](screenshots/sql_injection_payload.png)
+![SQL Injection Payload](screenshots/sql_injection_payload.png.png)
 
-![SQL Injection Result](screenshots/sql_injection_result.png)
+![SQL Injection Result](screenshots/sql_injection_result.png.png)
 
 ---
 
@@ -45,7 +45,7 @@ This work was initially performed as part of academic coursework and later organ
 - Simulated login attack
 - Used Burp Suite to intercept and analyze HTTP requests
 
-![Burp Request](screenshots/burp_request.png)
+![Burp Request](screenshots/burp_request.png.png)
 
 ---
 
